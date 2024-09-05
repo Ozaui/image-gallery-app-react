@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image {
+  width: 200px;
+}
+
+.cards-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
